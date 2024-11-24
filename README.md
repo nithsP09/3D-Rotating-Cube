@@ -11,6 +11,8 @@ Technologies Used
 1. HTML5: For structuring the cube and its faces.
 2. CSS3: For styling and animating the cube, including 3D transformations and keyframe animations.
 
+Video : https://youtube.com/shorts/dh-3r-uNyIU?si=o_7o0Y0H3PvCFSsV
+
 Preview
 The cube rotates continuously, displaying each face in sequence. A dark background highlights the glowing edges.
 

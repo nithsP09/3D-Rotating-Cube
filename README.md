@@ -6,7 +6,7 @@ Features
 2. Infinite rotation along both the X and Y axes.
 3. Glowing effect around each face for enhanced visual appeal.
 4. Semi-transparent faces with a shadow effect.
-
+   
 Technologies Used
 1. HTML5: For structuring the cube and its faces.
 2. CSS3: For styling and animating the cube, including 3D transformations and keyframe animations.
